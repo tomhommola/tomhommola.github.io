@@ -1,5 +1,5 @@
 // Change the text between the quotation marks and run your code to see the name of your favorite language animated!
-drawText('Here you can find my advanced courses');
+drawText('Hereyoucanfindmyadvancedcourses');
 
 // The code below will allow you to interact with the letters
 bounceBubbles();
